@@ -1,2 +1,2 @@
-/home/yuanwei/hello/platforms/android/ant-build/AndroidManifest.xml : \
-/home/yuanwei/hello/platforms/android/AndroidManifest.xml \
+/home/yuanwei/test/platforms/android/ant-build/AndroidManifest.xml : \
+/home/yuanwei/test/platforms/android/AndroidManifest.xml \
